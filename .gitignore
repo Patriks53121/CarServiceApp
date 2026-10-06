@@ -1,0 +1,4 @@
+.idea
+./webFrontend/node_modules
+./webFrontend/.env
+./Backend/.env
